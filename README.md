@@ -7,6 +7,7 @@ Timestamp                                      :  Timestamp when the response wa
 Eg: 2021/10/31 12:14:44 AM GMT+5:30
 
 What is your current living district?          : Discrict of the respondant
+
 Jaffna
 Kilinochchi
 Mannar
@@ -35,18 +36,22 @@ Galle
 
 
 Are you from                                   : Area of the respondant
+
 city area 
 Rural Area
 
 Please enter your city : City of the respondant
+
 To be entered manually
 Can be empty
 
 Are you able to access the internet connection?: Respondant accesible for net connection
+
 Yes
 No
 
 If yes, what is your internet coverage level? : Internet coverage level of Respondant
+
 Neutral
 Good
 Very Good
